@@ -1,1 +1,5 @@
 first-app.pem
+docker-uninstall.sh
+docker.sh
+gitinstall.sh
+gittoken.sh
