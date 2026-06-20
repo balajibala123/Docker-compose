@@ -3,3 +3,4 @@ docker-uninstall.sh
 docker.sh
 gitinstall.sh
 gittoken.sh
+docker-compose-install.sh
